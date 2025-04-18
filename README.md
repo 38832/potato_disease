@@ -34,8 +34,8 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/potato-disease-classification.git
-   cd potato-disease-classification
+   git clone https://github.com/your-username/potato_disease_classification.git
+   cd potato-disease_classification
    ```
 
 2. **Install Dependencies**:
