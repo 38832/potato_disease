@@ -118,9 +118,7 @@ The `predict` function:
 
 ## 📉 Results
 
-The model delivers high accuracy on the test set. The notebook visualizes predictions in a 3x3 grid, comparing actual vs. predicted labels with confidence scores.
-
-![Sample Predictions](sample_predictions.png)
+The model achieves an accuracy of 85.86% and a loss of 0.3378 on the test set, evaluated over 8 batches. The notebook visualizes predictions in a 3x3 grid, comparing actual vs. predicted labels with confidence scores.
 
 *Note*: Accuracy varies based on training runs and dataset splits. Check the notebook for detailed metrics.
 
